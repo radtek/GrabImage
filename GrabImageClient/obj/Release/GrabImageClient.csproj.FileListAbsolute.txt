@@ -1,0 +1,10 @@
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClient\bin\Release\GrabImageClient.exe.config
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClient\bin\Release\GrabImage.sdf
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClient\bin\Release\GrabImageClient.exe
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClient\bin\Release\GrabImageClient.pdb
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClient\obj\Release\GrabImageClient.Form1.resources
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClient\obj\Release\GrabImageClient.Properties.Resources.resources
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClient\obj\Release\GrabImageClient.csproj.GenerateResource.Cache
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClient\obj\Release\GrabImageClient.exe
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClient\obj\Release\GrabImageClient.pdb
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClient\obj\Release\GrabImageClient.csprojResolveAssemblyReference.cache

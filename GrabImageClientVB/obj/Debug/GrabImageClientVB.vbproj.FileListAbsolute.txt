@@ -1,0 +1,25 @@
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\bin\Debug\GrabImageClientVB.exe
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\bin\Debug\GrabImageClientVB.pdb
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\bin\Debug\GrabImageClientVB.xml
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\bin\Debug\pscvideostream.dll
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\bin\Debug\pscvideostream.pdb
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GrabImageClientVB.Form1.resources
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GrabImageClientVB.Resources.resources
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GrabImageClientVB.vbproj.GenerateResource.Cache
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GrabImageClientVB.exe
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GrabImageClientVB.xml
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GrabImageClientVB.pdb
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GrabImageClientVB.exe
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GrabImageClientVB.xml
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GrabImageClientVB.pdb
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\bin\Debug\GrabImageClientVB.exe
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\bin\Debug\GrabImageClientVB.pdb
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\bin\Debug\GrabImageClientVB.xml
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\bin\Debug\pscvideostream.dll
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\bin\Debug\pscvideostream.pdb
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\ResolveAssemblyReference.cache
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GrabImageClientVB.Form1.resources
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GrabImageClientVB.Resources.resources
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\GrabImageClientVB\obj\Debug\GenerateResource-ResGen.write.1.tlog

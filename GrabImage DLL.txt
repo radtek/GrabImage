@@ -1,0 +1,4 @@
+The GrabImage Win32 DLL is written in C++. 
+It uses Microsoft COM arcitecture and DirectShow API from Microsoft DirectX 9.0 SDK.
+
+

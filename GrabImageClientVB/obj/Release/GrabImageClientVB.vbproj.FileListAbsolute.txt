@@ -1,0 +1,13 @@
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\bin\Release\GrabImageClientVB.exe.config
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\bin\Release\GrabImageClientVB.exe
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\bin\Release\GrabImageClientVB.pdb
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\bin\Release\GrabImageClientVB.xml
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\bin\Release\pscvideostream.dll
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\bin\Release\pscvideostream.pdb
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\obj\Release\GrabImageClientVB.vbprojResolveAssemblyReference.cache
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\obj\Release\GrabImageClientVB.Form1.resources
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\obj\Release\GrabImageClientVB.Resources.resources
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\obj\Release\GrabImageClientVB.vbproj.GenerateResource.Cache
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\obj\Release\GrabImageClientVB.exe
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\obj\Release\GrabImageClientVB.xml
+C:\MicrosoftProjects\Video\GrabImage\GrabImageClientVB\obj\Release\GrabImageClientVB.pdb

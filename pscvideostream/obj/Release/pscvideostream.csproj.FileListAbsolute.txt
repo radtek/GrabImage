@@ -1,0 +1,15 @@
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\pscvideostream\bin\Release\pscvideostream.dll
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\pscvideostream\bin\Release\pscvideostream.pdb
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\pscvideostream\obj\Release\ResolveAssemblyReference.cache
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\pscvideostream\obj\Release\pscvideostream.dll
+C:\Microsoft Projects\Video\DirectShow projects\GrabImage\pscvideostream\obj\Release\pscvideostream.pdb
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\pscvideostream\bin\Release\pscvideostream.dll
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\pscvideostream\bin\Release\pscvideostream.pdb
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\pscvideostream\obj\Release\ResolveAssemblyReference.cache
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\pscvideostream\obj\Release\pscvideostream.dll
+C:\MicrosoftProjects\Video\DirectShow projects\GrabImage\pscvideostream\obj\Release\pscvideostream.pdb
+C:\MicrosoftProjects\Video\GrabImage\pscvideostream\bin\Release\pscvideostream.dll
+C:\MicrosoftProjects\Video\GrabImage\pscvideostream\bin\Release\pscvideostream.pdb
+C:\MicrosoftProjects\Video\GrabImage\pscvideostream\obj\Release\pscvideostream.dll
+C:\MicrosoftProjects\Video\GrabImage\pscvideostream\obj\Release\pscvideostream.pdb
+C:\MicrosoftProjects\Video\GrabImage\pscvideostream\obj\Release\pscvideostream.csprojResolveAssemblyReference.cache

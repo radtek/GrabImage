@@ -1,0 +1,4 @@
+C:\MicrosoftProjects\Video\GrabImage\pscvideostream\bin\x86\Release\pscvideostream.dll
+C:\MicrosoftProjects\Video\GrabImage\pscvideostream\bin\x86\Release\pscvideostream.pdb
+C:\MicrosoftProjects\Video\GrabImage\pscvideostream\obj\x86\Release\pscvideostream.dll
+C:\MicrosoftProjects\Video\GrabImage\pscvideostream\obj\x86\Release\pscvideostream.pdb

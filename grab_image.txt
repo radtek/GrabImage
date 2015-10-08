@@ -1,0 +1,15 @@
+Buffer length is 2764800
+Video size width: 1280
+Video size height: 720
+Video size BMIHEADER size: 40
+Video size size image: 2764800
+Video source left: 0
+Video source top: 0
+Video source right: 0
+Video source bottom: 0
+Video target left: 0
+Video target top: 0
+Video target right: 0
+Video target bottom: 0
+Origin stride: 3840
+New stride: 1284

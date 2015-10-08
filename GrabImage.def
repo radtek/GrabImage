@@ -1,0 +1,7 @@
+LIBRARY	GrabImage
+EXPORTS
+    StartPreview
+    MakeOneShot
+    TakeSnap
+    DestroyGraph
+    
