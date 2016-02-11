@@ -134,6 +134,15 @@ namespace GrabImageClient
             }
         }
 
+        public void UpgrateSQLServerCe()
+        {
+            SqlCeEngine engine = new SqlCeEngine(getConnectionString());
+
+            // https://msdn.microsoft.com/en-us/library/bb896160.aspx
+                 
+            engine.Upgrade(getConnectionString());
+        }
+
         private String getConnectionString()
         {
             string connectionString = "GrabImageClient.Properties.Settings.GrabImageConnectionString";

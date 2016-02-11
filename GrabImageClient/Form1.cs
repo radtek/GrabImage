@@ -42,6 +42,10 @@ namespace GrabImageClient
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //DBUtil db = new DBUtil();
+            //db.UpgrateSQLServerCe();
+            //return;
+
             IntPtr hWnd = pictureBox1.Handle;
             if (StartPreview(hWnd, pictureBox1.Width, pictureBox1.Height) == 1)
                 button1.Enabled = false;
